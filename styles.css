@@ -8,6 +8,10 @@
   align-items: center;
 }
 
+.radio-player {
+  width: 250px;
+}
+
 .header {
   background-color: #f6ab51;
   color: white;
@@ -15,7 +19,6 @@
   justify-content: space-around;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-  width: 17%;
 }
 
 h1 {
@@ -31,4 +34,8 @@ h1 {
 .turn-on {
   align-self: center;
   font-size: 25px;
+}
+
+.hidden {
+  display: none;
 }
